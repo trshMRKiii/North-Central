@@ -16,8 +16,8 @@ const NAV_ITEMS = [
   { to: "/Dashboard", label: "Dashboard", Icon: DashboardIcon },
   { to: "/Ticket", label: "Tickets", Icon: TicketIcon },
   { to: "/Collections", label: "Collections", Icon: CollectionsIcon },
-  { to: "/Vehicles", label: "Vehicles", Icon: VehicleIcon },
-  { to: "/Drivers", label: "Drivers", Icon: DriverIcon },
+  { to: "/Vehicles", label: "Vehicles Registry", Icon: VehicleIcon },
+  { to: "/Drivers", label: "Drivers Registry", Icon: DriverIcon },
   { to: "/StaffRegistry", label: "Staff Registry", Icon: UserIcon },
   { to: "/Reports", label: "Reports", Icon: ReportIcon },
 ];
