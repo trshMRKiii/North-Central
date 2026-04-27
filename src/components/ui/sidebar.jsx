@@ -32,12 +32,12 @@ function Navbar() {
 
       <Link to="/Vehicles" className={navLinkActive}>
         <VehicleIcon className={`${iconBase} text-white`} />
-        Vehicles
+        Vehicles Registry
       </Link>
 
       <Link to="/Drivers" className={navLinkActive}>
         <DriverIcon className={`${iconBase} text-white`} />
-        Drivers
+        Drivers Registry
       </Link>
 
       <Link to="/StaffRegistry" className={navLinkActive}>
